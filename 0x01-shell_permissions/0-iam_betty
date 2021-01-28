@@ -1,0 +1,2 @@
+#!/bin/bash
+usermod -u 12345678 betty
